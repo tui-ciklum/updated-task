@@ -3,7 +3,7 @@ variable "region" {
   default = "us-east-2"
 }
 variable "ami_id" {
-  default = "ami-02d1e544b84bf7502"
+  default = "ami-023c8dbf8268fb3ca"
 }
 variable "instance_type" {
   default = "t2.micro"
